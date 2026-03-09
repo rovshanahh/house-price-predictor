@@ -1,0 +1,21 @@
+# Data & models (too large for git)
+data/
+models/
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+venv/
+__pycache__/
+*.pyc
